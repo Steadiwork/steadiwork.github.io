@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
 Sitemap: https://steadiwork.github.io/aicontextkit/sitemap.xml
+Sitemap: https://steadiwork.github.io/aisupplychainbrief/sitemap.xml
